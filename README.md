@@ -44,25 +44,33 @@ This project provides a login and signup page implemented using Vue.js framework
 -To run this project locally, follow these steps:
 
 ### Clone the repository:
-
+```
 $ git clone https://github.com/FalseGenius/task-navigator-frontend.git
+```
 
+```
 $ cd task-navigator-frontend
-
+```
 
 ### Install the dependencies:
 
+```
 $ npm install axios
+```
 
+```
 $ npm install vue-router
+```
 
+```
 $ npm install @fortawesome/fontawesome-free
-
+```
 
 
 ### To start the application, use the following command:
-
+```
 $ npm run serve
+```
 
 Open your web browser and navigate to the local host to access the login and signup pages.
 
